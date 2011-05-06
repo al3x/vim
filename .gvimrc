@@ -1,6 +1,3 @@
-" save on losing focus
-au FocusLost * :wa
-
 " no toolbar
 set guioptions-=T
 
